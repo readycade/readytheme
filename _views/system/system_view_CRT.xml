@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>4</formatVersion>
+
+
+		<view name="system">
+            <carousel name="systemcarousel"
+                  type="vertical"
+                  pos=".01 0"
+                  origin="0 0"
+                  size=".25 .92"
+                  color="25253000"
+                  logoSize=".1 .1"
+                  logoScale="2"
+                  logoAlignment="center"
+                  defaultTransition="instant"
+                  maxLogoCount="7"
+                  zIndex="20"
+        />
+	
+        <extras>
+            <image name="background" pos="1 0" origin="1 0" maxSize="10 1"  zIndex="1" path="../../_assets/img/systems_covers/480p/default.jpg" path="../../_assets/img/systems_covers/480p/$system.jpg" />
+            <box   name="bgcarousel" pos="0 0" origin="0 0" size="0.25 1" zIndex="19" colorBottom="0c0c0e" colorTop="252530" />
+            <image name="bgoverlay"  pos="0 0" origin="0 0" size="1 1" zIndex="2" path="../../_assets/img/system_bg_crt.png" />
+            <image name="gamemarker" pos=".249 .44" origin="0 0" size=".001 .11" zIndex="30" path="../../_assets/img/marker.png" />
+            
+            <image name="mainlogo" pos=".30 .23" origin="0 1" size=".3 .18" keepratio="1" zIndex="100"
+                   path="../../_assets/img/systems_logos/$system - whlogo.png"
+                   path="../../_assets/img/systems_logos/$system - whlogo.svg"
+                   path.fr="../../_assets/img/systems_logos/$system - whlogo-fr.svg"
+                   path.EU="../../_assets/img/systems_logos/$system - whlogo-eu.svg"
+                   path.JP="../../_assets/img/systems_logos/$system - whlogo-jp.svg"
+                   path.US="../../_assets/img/systems_logos/$system - whlogo-us.svg"
+            />            
+        </extras>  
+				
+
+
+		<text name="systemInfo">
+			<pos if="overscan">.98 .03</pos>
+			<pos if="!overscan">.99 .01</pos>
+			<origin>1 0</origin>
+			<size>0.16 0.025</size>
+			<backgroundColor>00000000</backgroundColor>
+			<color>4e4e90</color>
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<alignment>right</alignment>
+		</text>
+		
+		<image name="controller" extra="true">
+			<pos>0.78 0.30</pos>
+			<maxSize>0.15 0.25</maxSize>
+			<origin>1 1</origin>
+		</image>
+		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10" extra="false">
+			<pos>1 1</pos>
+		</text>		
+		<text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10, info11, info12" extra="true">
+			<fontPath>:/f8bitfortressplus.ttf</fontPath>
+			<fontSize>7</fontSize>
+			<alignment>left</alignment>
+		</text>
+		
+		
+
+		
+	</view>
+
+</theme>

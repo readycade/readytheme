@@ -1,0 +1,142 @@
+<!--
+Theme "Readycade"(For Recalbox)
+Created by: Michael Cabral
+Version 2.1 , June 2024
+-->
+
+<theme name="Readycade" version="1.0" recalbox="9.2"  compatibility="crt, jamma, hdmi, tate" resolutions="qvga, vga, hd, fhd" >
+	<formatVersion>4</formatVersion>
+
+	<!--
+	############################
+	GLOBAL
+	############################
+	-->
+	<view name="system, detailed, gameclip">
+		<image name="logo" path="./_assets/img/systems_logos/$system - whlogo.svg"/>
+        <image name="logo" lang="fr" path="./_assets/img/systems_logos/$system - whlogo-fr.svg"/>
+		<image name="logo" region="eu" path="./_assets/img/systems_logos/$system - whlogo-eu.svg"/>
+		<image name="logo" region="jp" path="./_assets/img/systems_logos/$system - whlogo-jp.svg"/>
+		<image name="logo"  region="us" path="./_assets/img/systems_logos/$system - whlogo-us.svg"/>
+	</view>
+
+	<!-- SOUND -->
+	<view name="system">
+		<sound name="directory" path="/recalbox/share/themes/Readycade-V1-720p/music" />
+	</view>
+
+	<!-- MENU -->
+	<view name="menu">
+		<menuSize name="menuSize" height=".7" />
+        <menuBackground name="menubg" color="2c2c3ccc" />
+        <menuButton name="menubutton" filledPath="./_assets/img/input_active.png" path="./_assets/img/input.png" />
+        
+        <menuText name="menutitle" color="ffffff">
+			<fontPath if="crt | jamma">:/f8bitfortressplus.ttf</fontPath>
+            <fontPath if="hd | fhd">./_assets/fonts/JosefinSans-Regular.ttf</fontPath>
+            <fontSize>0.038</fontSize>
+		</menuText>        
+		<menuText name="menufooter" color="ffffff">
+			<fontPath if="crt | jamma">:/f8bitfortressplus.ttf</fontPath>
+            <fontPath if="hd | fhd">./_assets/fonts/JosefinSans-Regular.ttf</fontPath>
+			<fontSize>7</fontSize>
+		</menuText>
+		<menuText name="menutext" color="fffffffc" separatorColor="00000000" selectorColor="1d1d5b" selectedColor="ffffff" />
+        <menuText name="menutext">
+			<fontPath if="crt | jamma">:/f8bitfortressplus.ttf</fontPath>
+            <fontPath if="hd | fhd">./_assets/fonts/JosefinSans-Regular.ttf</fontPath>
+			<fontSize>7</fontSize>
+		</menuText>
+		<menuTextSmall name="menutextsmall"  color="ffffff">
+			<fontPath if="crt | jamma">:/f8bitfortressplus.ttf</fontPath>
+            <fontPath if="hd | fhd">./_assets/fonts/JosefinSans-Regular.ttf</fontPath>
+			<fontSize>7</fontSize>
+		</menuTextSmall>
+        
+        <menuIcons name="menuicons" if="hd | fhd">
+			<iconKodi value="./_assets/img/icons/Kodi.png"/>
+			<iconSystem value="./_assets/img/icons/System.png"/>
+			<iconUpdates value="./_assets/img/icons/Updates.png"/>
+			<iconGames value="./_assets/img/icons/Games.png"/>
+			<iconControllers value="./_assets/img/icons/Controllers.png"/>
+			<iconUI value="./_assets/img/icons/UI.png"/>
+			<iconSound value="./_assets/img/icons/Sound.png"/>
+			<iconNetwork value="./_assets/img/icons/Network.png"/>
+			<iconScraper value="./_assets/img/icons/Scraper.png"/>
+			<iconAdvanced value="./_assets/img/icons/Advanced.png"/>
+			<iconQuit value="./_assets/img/icons/Quit.png"/>
+			<iconRestart value="./_assets/img/icons/Restart.png"/>
+			<iconShutdown value="./_assets/img/icons/Shutdown.png"/>
+			<iconFastShutdown value="./_assets/img/icons/Fastshutdown.png"/>
+			<iconLicense value="./_assets/img/icons/Licence.png"/>
+			<iconRecalboxRGBDual value="./_assets/img/icons/RGBDual.png"/>
+			<iconTate value="./_assets/img/icons/Tate.png"/>
+			<iconArcade value="./_assets/img/icons/Arcade.png"/>
+			<iconDownload value="./_assets/img/icons/Download.png"/>
+		</menuIcons>
+	</view>
+    
+    
+    <!-- Display effects -->
+    <include subset="colorset" if="hd | fhd" name="0 - CRT" >./_views/options/overlay_crt.xml</include>
+    <include subset="colorset" if="hd | fhd" name="1 - Scanlines" >./_views/options/overlay_scanline.xml</include>
+    <include subset="colorset" if="hd | fhd" name="2 - Nid d'abeille" >./_views/options/overlay_nid_abeille.xml</include>
+	<include subset="colorset" if="hd | fhd" name="3 - Aucun">./_views/options/overlay_empty.xml</include>
+
+	<!-- HELP NAV CRT -->
+    <view name="menu, system, detailed, gameclip" if="(crt | jamma) and !tate">
+		<helpsystem if="overscan" name="help" fontPath=":/f8bitfortressplus.ttf" fontSize="7" pos="0.04 0.93" />
+		<helpsystem if="!overscan" name="help" fontPath=":/f8bitfortressplus.ttf" fontSize="7" pos="0.04 0.96" />
+	</view> 
+    <!-- HELP NAV HD -->
+    <view name="detailed" if="hd | fhd"> 
+		<helpsystem name="help" pos=".01 .975" origin="0 1" />
+	</view>
+    <view name="system, detailed" if="hd | fhd" >
+		<helpsystem name="help" iconColor="4e4e90" textColor="777777FF" fontSize="7" fontPath="./_assets/fonts/RedHatDisplay-Regular.ttf" />
+	</view>
+    
+
+	<include subset="iconset" name="1-snes">./_views/iconsets/snes.xml</include>
+	<include subset="iconset" name="2-xbox">./_views/iconsets/xbox.xml</include>
+	<include subset="iconset" name="3-psx">./_views/iconsets/psx.xml</include>
+	<include subset="iconset" name="4-arcade">./_views/iconsets/arcadebuttons.xml</include>
+	<include subset="iconset" name="5-jamma">./_views/iconsets/jammabuttons.xml</include>
+	<include subset="iconset" name="6-jamma 2">./_views/iconsets/jamma2buttons.xml</include>
+
+	<!--
+	############################
+	SYSTEM VIEWS
+	############################
+	-->
+	<include if="(qvga | vga) and !tate">./_views/system/system_view_CRT.xml</include>
+	<include if="(qvga | vga) and tate">./_views/system/system_view_TATE_CRT.xml</include>
+    <include if="(hd | fhd) and !tate">./_views/system/system_view_HD.xml</include>
+    <include if="(hd | fhd) and tate">./_views/system/system_view_TATE_HD.xml</include>
+
+	<!--
+	############################
+	GAMELIST VIEWS
+	############################
+	-->
+	<include if="(qvga | vga) and !tate">./_views/game/detailed_view_CRT.xml</include>
+	<include if="(qvga | vga) and tate" subset="gamelistview" name="0 - Horizontal list">./_views/game/detailed_view_TATE_CRT.xml</include>
+    <include if="(qvga | vga) and tate" subset="gamelistview" name="1 - Vertical list">./_views/game/detailed_view_TATE_CRT_2.xml</include>
+    <include if="(hd | fhd) and !tate">./_views/game/detailed_view_HD.xml</include>
+	<include if="(hd | fhd) and tate" subset="gamelistview" name="0 - Horizontal list">./_views/game/detailed_view_TATE_HD.xml</include>
+    <include if="(hd | fhd) and tate" subset="gamelistview" name="1 - Vertical list">./_views/game/detailed_view_TATE_HD_2.xml</include>
+
+	<!--
+	############################
+	GAMECLIP VIEWS
+	############################
+    -->
+
+	<include if="(qvga | vga) and !tate" subset="gameclipview" name="1 - detailed">./_views/gameclip/gameclip_view_CRT.xml</include>
+	<include if="(hd | fhd) and !tate"   subset="gameclipview" name="1 - detailed">./_views/gameclip/gameclip_view_HD.xml</include>
+	<include if="(hd | fhd) and tate" 	 subset="gameclipview" name="1 - detailed">./_views/gameclip/gameclip_view_TATE.xml</include>
+	<include subset="gameclipview" name="2 - Just Video (no infos)">./_views/gameclip/gameclip_view_noInfo.xml</include>
+
+
+
+</theme>

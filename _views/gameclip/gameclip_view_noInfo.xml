@@ -1,0 +1,13 @@
+<theme>
+
+    <formatVersion>4</formatVersion>
+
+    <view name="gameclip">
+        <image name="logo" pos=".02 .02" maxSize=".4 .3"  />
+        <video name="md_video" pos=".5 .5" origin=".5 .5" size="1 1" zIndex="2" delay="0" >
+            <maxSize if="tate">1 10</maxSize>
+        </video>
+
+    </view>
+
+</theme>

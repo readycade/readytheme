@@ -1,0 +1,52 @@
+<theme>
+
+    <formatVersion>4</formatVersion>
+
+    <view name="gameclip">
+
+        <!--
+       #### LEFT ####
+       -->
+        <image name="logo" pos=".05 .01" maxSize=".2 .2"  />
+
+        <rating name="md_rating" pos=".08 .74 " size=".20 .02" filledPath="../../_assets/img/icons/star_filled_yellow.svg" unfilledPath="../../_assets/img/icons/star_empty_yellow.svg"  />
+
+        <image name="label_genre" extra="true" pos=".02 .81" origin="0 1" size=".03 .02" zIndex="25" color="ffffff" path="../../_assets/img/icons/genre.png" />
+        <text name="md_genre"                 pos=".07 .815" origin="0 1" size=".25 .03" color="cfcfcf" alignment="left" fontSize="5"  fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+
+        <image name="label_favorite" extra="true" pos=".02 .85" origin="0 1" size=".03 .02" zIndex="25" color="ffffff" path="../../_assets/img/icons/favorite.png" />
+        <text name="md_favorite"                 pos=".07 .855" origin="0 1" size=".25 .03" zIndex="25" color="cfcfcf" alignment="left" fontSize="5" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+
+        <image name="label_players" extra="true" pos=".02 .89" origin="0 1" size=".03 .02" zIndex="25" color="ffffff" path="../../_assets/img/icons/players.png" />
+        <text name="md_players"                 pos=".07 .895" origin="0 1" size=".25 .03" zIndex="55" color="cfcfcf" alignment="left" fontSize="5" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+
+        <image name="label_releasedate" extra="true" pos=".02 .93" origin="0 1" size=".03 .02" zIndex="25" color="ffffff" path="../../_assets/img/icons/calendar.png" reflection="0.2 0.0" />
+        <datetime name="md_releasedate"              pos=".07 .935" origin="0 1" size=".25 .03" zIndex="85" color="cfcfcf" alignment="left" fontSize="5" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+
+
+
+        <extras>
+            <text name="separator"  pos=".01 .82" />
+            <text name="separator0" pos=".01 .84" />
+            <text name="separator1" pos=".01 .86" />
+            <text name="separator2" pos=".01 .90" />
+            <text name="separator, separator1, separator2" size=".3 .0009" origin="0 1" zIndex="30" color="cfcfcf" alignment="center" lineSpacing=".7" fontSize=".015" backgroundColor="ffffff5E" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+
+            <image name="Shadercrt" pos="0 0" origin="0 0" size="1 1" zIndex="30" color="FFFFFF90" tile="true" path="../../_assets/img/shaders/crt.png" />
+            <box name="gradient"  pos="0 0" origin="0 0" size="1 .4" zIndex="20"  colorTop="000000ff" colorBottom="000000" />
+        </extras>
+
+        <!--
+        #### MIDDLE ####
+        -->
+        <video name="md_video" pos=".5 0" origin=".5 0" maxSize="1 .73" zIndex="2" delay="0" link="" animations="breakingnews" loops="-1" />
+
+        <image name="md_image" pos=".55 .74" origin="1 0" maxSize=".2 .2"  />
+        <text name="md_gameName" pos=".56 .745" origin="0 0" size=".44 .02" zIndex="15" color="ffffff"  alignment="left" fontSize="7" fontPath="../../_assets/fonts/JosefinSans-SemiBold.ttf" />
+        <text name="md_developer" pos=".56 .76" origin="0 0" size=".44 .02" zIndex="15" color="ffffff" alignment="left" fontSize=".02" fontPath="../../_assets/fonts/JosefinSans-SemiBold.ttf" />
+        <text name="md_description" pos=".56 .78" origin="0 0" size=".44 .2" zIndex="15" color="ffffff" lineSpacing="1.18" alignment="right" fontSize=".018" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+
+
+    </view>
+
+</theme>

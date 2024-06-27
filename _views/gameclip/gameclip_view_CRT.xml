@@ -1,0 +1,39 @@
+<theme>
+
+    <formatVersion>4</formatVersion>
+
+    <view name="gameclip">
+
+        <!--
+       #### LEFT ####
+       -->
+        <image name="logo" pos=".99 0.01" origin="1 0" size=".175 .13"  />
+        <image name="md_image" pos=".99 0.14" origin="1 0" size=".175 .4"  />
+
+        <image name="label_players" extra="true" pos=".84 .56" size=".1 .1" zIndex="25" color="ffffff" path="../../_assets/img/icons/players.png" />
+        <text name="md_players" pos=".81 .665" size=".175 .03" zIndex="55" color="cfcfcf" alignment="center" fontSize="7" fontPath=":/f8bitfortressplus.ttf" />
+
+        <rating name="md_rating" pos=".82 .75 " size=".175 .04" filledPath="../../_assets/img/icons/star_filled_yellow.svg" unfilledPath="../../_assets/img/icons/star_empty_yellow.svg"  />
+
+
+        <extras>
+            <text name="separator"  pos=".01 .282" />
+            <text name="separator1" pos=".01 .382" />
+            <text name="separator2" pos=".01 .438" />
+            <text name="separator, separator1, separator2" size=".09 .0009" zIndex="30" color="cfcfcf" alignment="center" lineSpacing=".7" fontSize=".015" backgroundColor="ffffff5E" fontPath=":/f8bitfortressplus.ttf" />
+        </extras>
+
+        <!--
+        #### MIDDLE ####
+        -->
+        <video name="md_video" pos="0 0" origin="0 0" size=".8 .8" zIndex="2" delay="0"   />
+
+        <text name="md_gameName" pos=".04 .805" origin="0 0" size=".8 .08" zIndex="15" color="ffffff" alignment="center" fontSize="7" fontPath=":/f8bitfortressplus.ttf" />
+        <text name="md_genre" pos=".04 .85" origin="0 0" size=".8 .08" zIndex="15" color="4646df" alignment="center" fontSize="7" fontPath=":/f8bitfortressplus.ttf" />
+
+
+
+
+    </view>
+
+</theme>

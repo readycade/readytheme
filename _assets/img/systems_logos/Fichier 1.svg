@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" data-name="Calque 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 743.33 242.15">
+  <g id="Calque_11" data-name="Calque 11">
+    <g>
+      <polygon points="25.75 91.08 717.17 91.08 724.4 82.08 18.57 82.08 25.75 91.08" style="fill: none; stroke-width: 0px;"/>
+      <polygon points="12.99 75.08 730.03 75.08 738.06 65.08 5.01 65.08 12.99 75.08" style="fill: none; stroke-width: 0px;"/>
+      <polygon points="38.52 107.08 704.32 107.08 711.55 98.08 31.34 98.08 38.52 107.08" style="fill: none; stroke-width: 0px;"/>
+      <polygon points="65.65 141.08 677.01 141.08 685.04 131.08 57.67 131.08 65.65 141.08" style="fill: none; stroke-width: 0px;"/>
+      <polygon points="52.09 124.08 690.67 124.08 698.7 114.08 44.11 114.08 52.09 124.08" style="fill: none; stroke-width: 0px;"/>
+      <polygon points="78.42 157.08 664.16 157.08 671.39 148.08 71.24 148.08 78.42 157.08" style="fill: none; stroke-width: 0px;"/>
+      <polygon points="738.06 65.08 743.33 58.52 743.33 58.08 0 58.08 0 58.81 5.01 65.08 738.06 65.08" style="fill: #d82126; stroke-width: 0px;"/>
+      <polygon points="18.57 82.08 724.4 82.08 730.03 75.08 12.99 75.08 18.57 82.08" style="fill: #d82126; stroke-width: 0px;"/>
+      <polygon points="31.34 98.08 711.55 98.08 717.17 91.08 25.75 91.08 31.34 98.08" style="fill: #d82126; stroke-width: 0px;"/>
+      <polygon points="44.11 114.08 698.7 114.08 704.32 107.08 38.52 107.08 44.11 114.08" style="fill: #d82126; stroke-width: 0px;"/>
+      <polygon points="57.67 131.08 685.04 131.08 690.67 124.08 52.09 124.08 57.67 131.08" style="fill: #d82126; stroke-width: 0px;"/>
+      <polygon points="71.24 148.08 671.39 148.08 677.01 141.08 65.65 141.08 71.24 148.08" style="fill: #d82126; stroke-width: 0px;"/>
+      <polygon points="78.42 157.08 84 164.08 658.54 164.08 664.16 157.08 78.42 157.08" style="fill: #d82126; stroke-width: 0px;"/>
+    </g>
+  </g>
+  <g id="RECALBOX3">
+    <g>
+      <text transform="translate(565.2 182.95)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 99.46px; font-weight: 800; stroke: #6da6ba; stroke-miterlimit: 10; stroke-width: 36px;"><tspan x="0" y="0">X</tspan></text>
+      <text transform="translate(483.6 193.42)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 111.79px; font-weight: 800; stroke: #6da6ba; stroke-miterlimit: 10; stroke-width: 36px;"><tspan x="0" y="0">O</tspan></text>
+      <text transform="translate(421.64 182.95)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 99.46px; font-weight: 800; stroke: #6da6ba; stroke-miterlimit: 10; stroke-width: 36px;"><tspan x="0" y="0">B</tspan></text>
+      <text transform="translate(363.99 191.73)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 111.79px; font-weight: 800; stroke: #6da6ba; stroke-miterlimit: 10; stroke-width: 36px;"><tspan x="0" y="0">L</tspan></text>
+      <text transform="translate(290.4 182.95)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 99.46px; font-weight: 800; stroke: #6da6ba; stroke-miterlimit: 10; stroke-width: 36px;"><tspan x="0" y="0">A</tspan></text>
+      <text transform="translate(221.18 191.73)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 111.79px; font-weight: 800; stroke: #6da6ba; stroke-miterlimit: 10; stroke-width: 36px;"><tspan x="0" y="0">C</tspan></text>
+      <text transform="translate(173.09 182.95)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 99.46px; font-weight: 800; stroke: #6da6ba; stroke-miterlimit: 10; stroke-width: 36px;"><tspan x="0" y="0">E</tspan></text>
+      <text transform="translate(102.25 191.73)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 111.79px; font-weight: 800; stroke: #6da6ba; stroke-miterlimit: 10; stroke-width: 36px;"><tspan x="0" y="0">R</tspan></text>
+    </g>
+  </g>
+  <g id="SUPER2_-_copie" data-name="SUPER2 - copie">
+    <g>
+      <path d="m255.8,89.86c4.69,3.8,9.14,5.71,13.33,5.71,1.48,0,2.67-.3,3.57-.91.9-.6,1.35-1.38,1.35-2.34,0-.65-.14-1.16-.41-1.53-.27-.37-.84-.69-1.7-.98-.86-.29-2.21-.59-4.04-.89-5.53-1.08-9.62-2.83-12.26-5.25-2.64-2.42-3.96-5.96-3.96-10.62,0-5.77,2.17-10.51,6.5-14.23,4.33-3.72,9.91-5.57,16.72-5.57,3.14,0,6.06.4,8.78,1.19,2.72.79,5.68,2.07,8.89,3.83l-5.45,14.17c-3.48-2.85-7.2-4.27-11.15-4.27-1.38,0-2.49.26-3.32.77-.83.52-1.24,1.22-1.24,2.1,0,.76.31,1.35.94,1.78s1.75.79,3.35,1.1l3.59.83c5.19,1.21,8.96,3.08,11.32,5.61,2.36,2.53,3.54,6.08,3.54,10.64,0,6-2.17,10.83-6.52,14.49-4.35,3.67-10.06,5.5-17.15,5.5s-14.14-1.89-20.85-5.67l6.15-15.45Z" style="fill: none; stroke: #6da6ba; stroke-miterlimit: 10; stroke-width: 36px;"/>
+      <path d="m347.48,87.82c0,7.38-2.11,13.07-6.32,17.08-4.21,4.01-10.45,6.01-18.72,6.01-3.85,0-7.29-.45-10.32-1.34-3.03-.89-5.64-2.27-7.85-4.12-2.21-1.85-3.9-4.26-5.07-7.22s-1.76-6.43-1.76-10.41v-33.82h19.48v31.44c0,3.17.41,5.33,1.24,6.48.83,1.15,2.25,1.72,4.28,1.72.91,0,1.67-.09,2.28-.28.6-.19,1.19-.56,1.74-1.11.56-.55.96-1.39,1.22-2.51.26-1.12.39-2.55.39-4.29v-31.44h19.41v33.82Z" style="fill: none; stroke: #6da6ba; stroke-miterlimit: 10; stroke-width: 36px;"/>
+      <path d="m352.33,54.01h26.67c6.07,0,11.05,1.88,14.93,5.63s5.82,8.56,5.82,14.43-1.61,10.28-4.83,13.75-7.49,5.21-12.8,5.21h-10.22v16.78h-19.56v-55.81Zm19.63,24.86h3.56c1.75,0,3.11-.47,4.06-1.42.95-.94,1.43-2.26,1.43-3.95,0-1.26-.44-2.31-1.32-3.14-.88-.83-1.98-1.25-3.31-1.25h-4.41v9.75Z" style="fill: none; stroke: #6da6ba; stroke-miterlimit: 10; stroke-width: 36px;"/>
+      <path d="m402.52,54.01h36.41v15.11h-16.78v5.25h15.26v14.62h-15.26v5.18h17.22v15.64h-36.86v-55.81Z" style="fill: none; stroke: #6da6ba; stroke-miterlimit: 10; stroke-width: 36px;"/>
+      <path d="m443.38,54.01h25.78c6.08,0,11.11,1.81,15.09,5.42,3.99,3.61,5.98,8.16,5.98,13.62,0,7.71-3.31,12.68-9.93,14.92l14.19,21.84h-22.6l-7.37-15.34c-.25-.45-.48-.92-.69-1.4-.21-.48-.48-1.12-.81-1.93,0,0,.31.74-.02-.05v18.72h-19.63v-55.81Zm19.71,24.94h2.59c1.68,0,2.99-.44,3.95-1.32.95-.88,1.43-2.09,1.43-3.63s-.49-2.7-1.46-3.57c-.98-.87-2.28-1.3-3.91-1.3h-2.59v9.82Z" style="fill: none; stroke: #6da6ba; stroke-miterlimit: 10; stroke-width: 36px;"/>
+    </g>
+  </g>
+  <g id="SUPER2">
+    <g>
+      <path d="m255.8,89.86c4.69,3.8,9.14,5.71,13.33,5.71,1.48,0,2.67-.3,3.57-.91.9-.6,1.35-1.38,1.35-2.34,0-.65-.14-1.16-.41-1.53-.27-.37-.84-.69-1.7-.98-.86-.29-2.21-.59-4.04-.89-5.53-1.08-9.62-2.83-12.26-5.25-2.64-2.42-3.96-5.96-3.96-10.62,0-5.77,2.17-10.51,6.5-14.23,4.33-3.72,9.91-5.57,16.72-5.57,3.14,0,6.06.4,8.78,1.19,2.72.79,5.68,2.07,8.89,3.83l-5.45,14.17c-3.48-2.85-7.2-4.27-11.15-4.27-1.38,0-2.49.26-3.32.77-.83.52-1.24,1.22-1.24,2.1,0,.76.31,1.35.94,1.78s1.75.79,3.35,1.1l3.59.83c5.19,1.21,8.96,3.08,11.32,5.61,2.36,2.53,3.54,6.08,3.54,10.64,0,6-2.17,10.83-6.52,14.49-4.35,3.67-10.06,5.5-17.15,5.5s-14.14-1.89-20.85-5.67l6.15-15.45Z" style="fill: none; stroke: #0077a1; stroke-miterlimit: 10; stroke-width: 17px;"/>
+      <path d="m347.48,87.82c0,7.38-2.11,13.07-6.32,17.08-4.21,4.01-10.45,6.01-18.72,6.01-3.85,0-7.29-.45-10.32-1.34-3.03-.89-5.64-2.27-7.85-4.12-2.21-1.85-3.9-4.26-5.07-7.22s-1.76-6.43-1.76-10.41v-33.82h19.48v31.44c0,3.17.41,5.33,1.24,6.48.83,1.15,2.25,1.72,4.28,1.72.91,0,1.67-.09,2.28-.28.6-.19,1.19-.56,1.74-1.11.56-.55.96-1.39,1.22-2.51.26-1.12.39-2.55.39-4.29v-31.44h19.41v33.82Z" style="fill: none; stroke: #0077a1; stroke-miterlimit: 10; stroke-width: 17px;"/>
+      <path d="m352.33,54.01h26.67c6.07,0,11.05,1.88,14.93,5.63s5.82,8.56,5.82,14.43-1.61,10.28-4.83,13.75-7.49,5.21-12.8,5.21h-10.22v16.78h-19.56v-55.81Zm19.63,24.86h3.56c1.75,0,3.11-.47,4.06-1.42.95-.94,1.43-2.26,1.43-3.95,0-1.26-.44-2.31-1.32-3.14-.88-.83-1.98-1.25-3.31-1.25h-4.41v9.75Z" style="fill: none; stroke: #0077a1; stroke-miterlimit: 10; stroke-width: 17px;"/>
+      <path d="m402.52,54.01h36.41v15.11h-16.78v5.25h15.26v14.62h-15.26v5.18h17.22v15.64h-36.86v-55.81Z" style="fill: none; stroke: #0077a1; stroke-miterlimit: 10; stroke-width: 17px;"/>
+      <path d="m443.38,54.01h25.78c6.08,0,11.11,1.81,15.09,5.42,3.99,3.61,5.98,8.16,5.98,13.62,0,7.71-3.31,12.68-9.93,14.92l14.19,21.84h-22.6l-7.37-15.34c-.25-.45-.48-.92-.69-1.4-.21-.48-.48-1.12-.81-1.93,0,0,.31.74-.02-.05v18.72h-19.63v-55.81Zm19.71,24.94h2.59c1.68,0,2.99-.44,3.95-1.32.95-.88,1.43-2.09,1.43-3.63s-.49-2.7-1.46-3.57c-.98-.87-2.28-1.3-3.91-1.3h-2.59v9.82Z" style="fill: none; stroke: #0077a1; stroke-miterlimit: 10; stroke-width: 17px;"/>
+    </g>
+  </g>
+  <g id="RECALBOX2">
+    <g>
+      <text transform="translate(565.2 182.95)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 99.46px; font-weight: 800; stroke: #0077a1; stroke-miterlimit: 10; stroke-width: 18px;"><tspan x="0" y="0">X</tspan></text>
+      <text transform="translate(483.6 193.42)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 111.79px; font-weight: 800; stroke: #0077a1; stroke-miterlimit: 10; stroke-width: 18px;"><tspan x="0" y="0">O</tspan></text>
+      <text transform="translate(421.64 182.95)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 99.46px; font-weight: 800; stroke: #0077a1; stroke-miterlimit: 10; stroke-width: 18px;"><tspan x="0" y="0">B</tspan></text>
+      <text transform="translate(363.99 191.73)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 111.79px; font-weight: 800; stroke: #0077a1; stroke-miterlimit: 10; stroke-width: 18px;"><tspan x="0" y="0">L</tspan></text>
+      <text transform="translate(290.4 182.95)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 99.46px; font-weight: 800; stroke: #0077a1; stroke-miterlimit: 10; stroke-width: 18px;"><tspan x="0" y="0">A</tspan></text>
+      <text transform="translate(221.18 191.73)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 111.79px; font-weight: 800; stroke: #0077a1; stroke-miterlimit: 10; stroke-width: 18px;"><tspan x="0" y="0">C</tspan></text>
+      <text transform="translate(173.09 182.95)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 99.46px; font-weight: 800; stroke: #0077a1; stroke-miterlimit: 10; stroke-width: 18px;"><tspan x="0" y="0">E</tspan></text>
+      <text transform="translate(102.25 191.73)" style="fill: none; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 111.79px; font-weight: 800; stroke: #0077a1; stroke-miterlimit: 10; stroke-width: 18px;"><tspan x="0" y="0">R</tspan></text>
+    </g>
+  </g>
+  <g id="RECALBOX1">
+    <g>
+      <text transform="translate(565.2 182.95)" style="fill: #d82126; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 99.46px; font-weight: 800; stroke: #fff; stroke-width: 2px;"><tspan x="0" y="0">X</tspan></text>
+      <text transform="translate(483.6 193.42)" style="fill: #d82126; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 111.79px; font-weight: 800; stroke: #fff; stroke-width: 2px;"><tspan x="0" y="0">O</tspan></text>
+      <text transform="translate(421.64 182.95)" style="fill: #d82126; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 99.46px; font-weight: 800; stroke: #fff; stroke-width: 2px;"><tspan x="0" y="0">B</tspan></text>
+      <text transform="translate(363.99 191.73)" style="fill: #d82126; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 111.79px; font-weight: 800; stroke: #fff; stroke-width: 2px;"><tspan x="0" y="0">L</tspan></text>
+      <text transform="translate(290.4 182.95)" style="fill: #d82126; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 99.46px; font-weight: 800; stroke: #fff; stroke-width: 2px;"><tspan x="0" y="0">A</tspan></text>
+      <text transform="translate(221.18 191.73)" style="fill: #d82126; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 111.79px; font-weight: 800; stroke: #fff; stroke-width: 2px;"><tspan x="0" y="0">C</tspan></text>
+      <text transform="translate(173.09 182.95)" style="fill: #d82126; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 99.46px; font-weight: 800; stroke: #fff; stroke-width: 2px;"><tspan x="0" y="0">E</tspan></text>
+      <text transform="translate(102.25 191.73)" style="fill: #d82126; font-family: FuturaTS-Heavy, &apos;Futura TS&apos;; font-size: 111.79px; font-weight: 800; stroke: #fff; stroke-width: 2px;"><tspan x="0" y="0">R</tspan></text>
+      <path d="m105.88,110.98h38.19c9,0,16.45,2.62,22.36,7.84,5.91,5.23,8.86,11.8,8.86,19.71,0,11.15-4.9,18.35-14.7,21.59l21.01,31.6h-33.47l-10.92-22.2c-.37-.66-.7-1.33-1.02-2.02-.31-.69-.71-1.62-1.21-2.79,0,0,.46,1.07-.03-.08v27.08h-29.08v-80.75Zm29.19,36.08h3.84c2.49,0,4.43-.64,5.84-1.91,1.41-1.28,2.11-3.02,2.11-5.25s-.72-3.91-2.17-5.17c-1.45-1.26-3.37-1.89-5.79-1.89h-3.84v14.21Z" style="fill: #d82126; stroke: #fff; stroke-linecap: square; stroke-miterlimit: 10; stroke-width: 2px;"/>
+    </g>
+  </g>
+  <g id="SUPER1">
+    <g>
+      <path d="m255.8,89.86c4.69,3.8,9.14,5.71,13.33,5.71,1.48,0,2.67-.3,3.57-.91.9-.6,1.35-1.38,1.35-2.34,0-.65-.14-1.16-.41-1.53-.27-.37-.84-.69-1.7-.98-.86-.29-2.21-.59-4.04-.89-5.53-1.08-9.62-2.83-12.26-5.25-2.64-2.42-3.96-5.96-3.96-10.62,0-5.77,2.17-10.51,6.5-14.23,4.33-3.72,9.91-5.57,16.72-5.57,3.14,0,6.06.4,8.78,1.19,2.72.79,5.68,2.07,8.89,3.83l-5.45,14.17c-3.48-2.85-7.2-4.27-11.15-4.27-1.38,0-2.49.26-3.32.77-.83.52-1.24,1.22-1.24,2.1,0,.76.31,1.35.94,1.78s1.75.79,3.35,1.1l3.59.83c5.19,1.21,8.96,3.08,11.32,5.61,2.36,2.53,3.54,6.08,3.54,10.64,0,6-2.17,10.83-6.52,14.49-4.35,3.67-10.06,5.5-17.15,5.5s-14.14-1.89-20.85-5.67l6.15-15.45Z" style="fill: #d82126; stroke: #fff; stroke-linecap: square; stroke-miterlimit: 10; stroke-width: 2px;"/>
+      <path d="m347.48,87.82c0,7.38-2.11,13.07-6.32,17.08-4.21,4.01-10.45,6.01-18.72,6.01-3.85,0-7.29-.45-10.32-1.34-3.03-.89-5.64-2.27-7.85-4.12-2.21-1.85-3.9-4.26-5.07-7.22s-1.76-6.43-1.76-10.41v-33.82h19.48v31.44c0,3.17.41,5.33,1.24,6.48.83,1.15,2.25,1.72,4.28,1.72.91,0,1.67-.09,2.28-.28.6-.19,1.19-.56,1.74-1.11.56-.55.96-1.39,1.22-2.51.26-1.12.39-2.55.39-4.29v-31.44h19.41v33.82Z" style="fill: #d82126; stroke: #fff; stroke-linecap: square; stroke-miterlimit: 10; stroke-width: 2px;"/>
+      <path d="m352.33,54.01h26.67c6.07,0,11.05,1.88,14.93,5.63s5.82,8.56,5.82,14.43-1.61,10.28-4.83,13.75-7.49,5.21-12.8,5.21h-10.22v16.78h-19.56v-55.81Zm19.63,24.86h3.56c1.75,0,3.11-.47,4.06-1.42.95-.94,1.43-2.26,1.43-3.95,0-1.26-.44-2.31-1.32-3.14-.88-.83-1.98-1.25-3.31-1.25h-4.41v9.75Z" style="fill: #d82126; stroke: #fff; stroke-linecap: square; stroke-miterlimit: 10; stroke-width: 2px;"/>
+      <path d="m402.52,54.01h36.41v15.11h-16.78v5.25h15.26v14.62h-15.26v5.18h17.22v15.64h-36.86v-55.81Z" style="fill: #d82126; stroke: #fff; stroke-linecap: square; stroke-miterlimit: 10; stroke-width: 2px;"/>
+      <path d="m443.38,54.01h25.78c6.08,0,11.11,1.81,15.09,5.42,3.99,3.61,5.98,8.16,5.98,13.62,0,7.71-3.31,12.68-9.93,14.92l14.19,21.84h-22.6l-7.37-15.34c-.25-.45-.48-.92-.69-1.4-.21-.48-.48-1.12-.81-1.93,0,0,.31.74-.02-.05v18.72h-19.63v-55.81Zm19.71,24.94h2.59c1.68,0,2.99-.44,3.95-1.32.95-.88,1.43-2.09,1.43-3.63s-.49-2.7-1.46-3.57c-.98-.87-2.28-1.3-3.91-1.3h-2.59v9.82Z" style="fill: #d82126; stroke: #fff; stroke-linecap: square; stroke-miterlimit: 10; stroke-width: 2px;"/>
+    </g>
+  </g>
+</svg>

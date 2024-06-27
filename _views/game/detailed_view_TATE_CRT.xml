@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="detailed">
+
+		<textlist name="gamelist" extra="true" pos=".02 .95" origin="0 1" size=".96 .34" zIndex="80"
+				  selectorColor="ed560090"
+				  selectedColor="ffffff"
+				  selectorHeight=".04"
+				  primaryColor="ffffff"
+				  secondaryColor="ffffff80"
+				  fontPath=":/f8bitfortressplus.ttf"
+				  fontSize="6"
+				  alignment="left"
+				  forceUppercase="1"
+				  lineSpacing="2"
+		/>
+
+		<image name="logo" pos=".03 .02" origin="0 0" maxSize=".45 .15" zIndex="100" alignment="center" />
+
+		<video name="md_video" pos=".735 .37" origin=".5 .5" maxSize=".35 .45" zIndex="2" delay="0" link="md_image" animations="none" loops="1" />
+		<image name="md_image" pos=".735 .37" origin=".5 .5" maxSize=".35 .45"  />
+		<text name="md_folder_name"  disable="true" visible="false"  />
+		<image name="md_folder_image, md_folder_image_0, md_folder_image_1, md_folder_image_2, md_folder_image_3, md_folder_image_4, md_folder_image_5, md_folder_image_6, md_folder_image_7, md_folder_image_8" path="../../_assets/img/icons/arcade.svg" />
+
+		<rating name="md_rating"    pos=".03 .17" size=".04 .03" filledPath="../../_assets/img/icons/star_filled_yellow.svg" unfilledPath="../../_assets/img/icons/star_empty_yellow.svg" />
+		<text name="md_genre"       pos=".03 .20" size=".45 .04" forceUppercase="1" color="4646df" />
+		<text name="md_lbl_players" pos=".03 .24" size=".25 .03" forceUppercase="1" color="ffffff" />
+		<text name="md_players"     pos=".215 .24" size=".145 .03" forceUppercase="1" color="4646df" />
+		<datetime name="md_releasedate" pos=".03 .273 " size=".145 .03" color="4646df" alignment="left" />
+		<text name="md_developer"   pos=".03 .31" size=".45 .03" color="ffffff" />
+		<text name="md_description" pos=".03 .35" size=".45 .23" color="ffffff" lineSpacing="1.18"/>
+
+		<text name="md_lbl_players, md_players, md_genre, md_developer, md_description, md_releasedate" alignment="left" fontSize="6" fontPath=":/f8bitfortressplus.ttf" />
+
+		<extras>
+			<box name="gradient_carousel"  pos="0 0" origin="0 0" size="1 .15" zIndex="3" colorTop="3e3e55" colorBottom="3e3e5510" />
+
+			<image name="background2" pos="0 0" origin="0 0" maxSize="1 1" zIndex="2" path="../../_assets/img/system_bg1_240p_TATE.png" />
+
+			<box name="gradient3" pos="0 1" origin="0 1" size="1 .4" zIndex="2" colorBottom="000000" colorTop="00000000" />
+			<box name="gradient4" pos="0 1" origin="0 1" size="1 .4" zIndex="2" colorBottom="000000" colorTop="00000000" />
+		</extras>
+
+		<helpsystem if="overscan" name="help" pos=".04 .96" />
+		<helpsystem if="!overscan" name="help" pos=".04 .99" />
+
+	</view>
+
+</theme>

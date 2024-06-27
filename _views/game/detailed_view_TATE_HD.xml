@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="detailed">
+
+		<textlist name="gamelist" extra="true" pos=".01 .01" size=".43 1" zIndex="80"
+			selectorColor="4646df80"
+			selectedColor="ffffff"
+			primaryColor="ffffff"
+			secondaryColor="ffffff80"
+			fontPath="../../_assets/fonts/JosefinSans-Regular.ttf"
+			fontSize=".021"
+			alignment="left"
+			selectorHeight=".02"
+            forceUppercase="1"
+            lineSpacing="1.8"
+		/>
+
+
+        <image name="logo" pos=".715 .01" origin=".5 0" size=".2 .15"  />
+		<!-- WAIT
+		<image name="md_marquee" pos=".01 .04" origin="0 0" size=".09 .09" zIndex="25" alignment="left" />
+		-->
+
+		<image name="label_genre" extra="true" pos=".55 .192" size=".045 .027" zIndex="25" color="ffffff" path="../../_assets/img/icons/genre.png" />
+		<scrolltext name="md_genre" pos=".61 .1915" size=".3 .03" color="cfcfcf" alignment="center" fontSize=".015" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+
+		<image name="label_players" extra="true" pos=".79 .242" size=".055 .03" zIndex="25" color="ffffff" path="../../_assets/img/icons/players.png" />
+		<text name="md_players"  pos=".92 .265" origin="1 0" size=".20 .03" zIndex="55" color="cfcfcf" alignment="center" fontSize=".015" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+
+		<image name="label_releasedate" extra="true" pos=".59 .245" size=".038 .022" zIndex="25" color="ffffff" path="../../_assets/img/icons/calendar.png" />
+		<datetime name="md_releasedate" pos=".51 .265" size=".20 .03" zIndex="85" color="cfcfcf" alignment="center" fontSize=".015" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+
+		<image name="md_image" pos=".46 .485" origin="0 1" size=".13 .12"  />
+		<text name="md_developer" pos=".6 .4" origin="0 1" size=".27 .06" color="ffffff" alignment="left" fontSize=".02" fontPath="../../_assets/fonts/JosefinSans-SemiBold.ttf" />
+		<text name="md_description" pos=".6 .515" origin="0 1" size=".38 .13" color="ffffff" lineSpacing="1.18" alignment="left" fontSize=".018" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+
+		<rating name="md_rating" pos=".65 .31 " size=".20 .02" filledPath="../../_assets/img/icons/star_filled_yellow.svg" unfilledPath="../../_assets/img/icons/star_empty_yellow.svg"  />
+
+
+		<extras>
+            <text name="separator"  pos=".92 .182"  />
+            <text name="separator1" pos=".92 .230" />
+            <text name="separator2" pos=".92 .300" />
+            <text name="separator, separator1, separator2" origin="1 0" size=".4 .0009" color="cfcfcf" alignment="center" lineSpacing=".7" fontSize=".015" backgroundColor="ffffff5E" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+        </extras>
+
+        <!--
+        #### MIDDLE ####
+        -->
+		<video name="md_video" pos=".45 .53" origin="0 0" maxSize=".55 .8" zIndex="2" delay="0" link="" animations="breakingnews" loops="-1" />
+		<!-- Video Shader CRT -->
+        <extras>
+            <image name="background2" extra="true" pos="0 0" origin="0 0" size="1 1" zIndex="9" path="../../_assets/img/bg2_gameliste_detailed_TATE.png" />
+            <image name="Shadercrt" extra="true" pos="0 .5" origin="0 0" size="1 .5" zIndex="3" color="FFFFFF90" tile="true" path="../../_assets/img/shaders/crt.png" />
+
+            <text name="systemCurrent" extra="true" pos=".45 .155" origin="0 0" size=".55 .03" zIndex="150"  fontSize=".02"  color="ffffff" alignment="center" fontPath="../../_assets/fonts/JosefinSans-SemiBold.ttf" text="$fullname" />
+		</extras>
+
+	</view>
+
+</theme>

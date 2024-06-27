@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="detailed">
+
+		<textlist name="gamelist" extra="true" pos=".755 .04" size=".24 .94" zIndex="80"
+			selectorColor="4646df80"
+			selectedColor="ffffff"
+			primaryColor="ffffff"
+			secondaryColor="ffffff"
+			fontPath="../../_assets/fonts/JosefinSans-Regular.ttf"
+			fontSize=".021"
+			alignment="left"
+			selectorHeight=".03"
+            forceUppercase="1"
+            lineSpacing="1.8"
+		/>
+
+
+        <!--
+        #### LEFT ####
+        -->
+        <image name="logo" pos=".01 .02" size=".09 .12"  />
+		<!-- WAIT
+		<image name="md_marquee" pos=".01 .04" origin="0 0" size=".09 .09" zIndex="25" alignment="left" />
+		-->
+
+		<image name="label_genre" extra="true" pos=".045 .2" size=".02 .03" zIndex="25" color="ffffff" path="../../_assets/img/icons/genre.png" />
+		<scrolltext name="md_genre" pos=".01 .240" size=".09 .03" color="cfcfcf" alignment="center" fontSize=".015" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+
+		<image name="label_favorite" extra="true" pos=".025 .3" size=".015 .03" zIndex="25" color="ffffff" path="../../_assets/img/icons/favorite.png" />
+		<text name="md_favorite" pos=".025 .337" size=".015 .03" zIndex="25" color="cfcfcf" alignment="center" lineSpacing=".7" fontSize=".015" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+
+		<image name="label_players" extra="true" pos=".065 .3" size=".02 .03" zIndex="25" color="ffffff" path="../../_assets/img/icons/players.png" />
+		<text name="md_players" pos=".065 .341" size=".02 .03" zIndex="55" color="cfcfcf" alignment="center" fontSize=".015" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+
+		<rating name="md_rating" pos=".028 .4 " size=".20 .02" filledPath="../../_assets/img/icons/star_filled_yellow.svg" unfilledPath="../../_assets/img/icons/star_empty_yellow.svg"  />
+
+		<datetime name="md_releasedate" pos=".01 .45" size=".09 .03" zIndex="85" color="cfcfcf" alignment="center" fontSize=".015" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+		<image name="label_releasedate" extra="true" pos=".045 .49" size=".02 .03" zIndex="25" color="ffffff" path="../../_assets/img/icons/calendar.png" reflection="0.2 0.0" />
+
+		<image name="md_image" pos=".01 .94" origin="0 1" size=".095 .2"  />
+
+        <extras>
+            <text name="separator"  pos=".01 .282" />
+            <text name="separator1" pos=".01 .382" />
+            <text name="separator2" pos=".01 .438" />
+            <text name="separator, separator1, separator2" size=".09 .0009" color="cfcfcf" alignment="center" lineSpacing=".7" fontSize=".015" backgroundColor="ffffff5E" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+        </extras>
+
+        <!--
+        #### MIDDLE ####
+        -->
+		<video name="md_video" pos=".425 0" origin=".5 0" size=".63 .80" keepratio="1" zIndex="2" delay="0" link="" animations="bump"  />
+		<!-- Video Shader CRT -->
+        <extras>
+            <image name="background2" extra="true" pos="0 0" origin="0 0" size="1 1" zIndex="9" path="../../_assets/img/bg1_gameliste_detailed.png" />
+            <image name="Shadercrt" extra="true" pos=".11 0" origin="0 0" size=".63 .80" zIndex="3" color="FFFFFF90" tile="true" path="../../_assets/img/shaders/crt.png" />
+
+            <text name="systemCurrent" extra="true" pos="0 .03" origin="0 0" size=".73 .07" zIndex="150" color="ffffffff" alignment="right" fontPath="../../_assets/fonts/JosefinSans-SemiBold.ttf" text="$fullname" />
+            <!-- WAIT
+            <text name="systemGameName" extra="true" pos="0 .03" size=".73 .15" zIndex="150" color="ffffffff" alignment="right" fontSize=".025" fontPath="../../_assets/fonts/JosefinSans-SemiBold.ttf" text.fr="" />-->
+		</extras>
+
+        <!-- WAIT
+		<text name="md_name" pos=".125 .685" size=".50 .06" color="ffffff" alignment="left" fontSize=".03" fontPath="../../_assets/fonts/JosefinSans-SemiBold.ttf" />-->
+
+		<text name="md_developer" pos=".125 .715" size=".27 .06" color="ffffff" alignment="left" fontSize=".02" fontPath="../../_assets/fonts/JosefinSans-SemiBold.ttf" />
+
+		<text name="md_description" pos=".125 .77" size=".38 .166" color="ffffff" lineSpacing="1.18" alignment="left" fontSize=".018" fontPath="../../_assets/fonts/JosefinSans-Regular.ttf" />
+
+
+	</view>
+
+</theme>

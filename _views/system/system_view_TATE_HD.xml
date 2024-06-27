@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>4</formatVersion>
+
+
+    <view name="system">
+        <carousel name="systemcarousel"
+                  type="horizontal"
+                  pos="0 .98"
+                  origin="0 1"
+                  size="1 .2"
+                  color="25253000"
+                  logoSize=".1 .1"
+                  logoScale="1.8"
+                  logoAlignment="left"
+                  defaultTransition="instant"
+                  maxLogoCount="5"
+                  zIndex="20"
+        />
+        
+        <extras>
+            <image name="background" pos=".5 .83" origin=".5 1" maxSize="1.5 .75"  zIndex="5" path="../../_assets/img/systems_covers/1080p/$system.jpg">
+                <pos if="tateright" value="1 .83" />
+                <origin if="tateright" value="1 1" />
+                <size if="tateright" value="1 .75" />
+            </image>
+            <box   name="bgcarousel" pos="0 .95" origin="0 1" size="1 .12 " zIndex="8" colorBottom="0c0c0e" colorTop="252530" />
+            <box   name="top" pos="0 0" origin="0 0" size="1 .10" zIndex="80" colorBottom="000000" colorTop="252530" />
+            <box   name="shadowtop" pos="0 .1" origin="0 0" size="1 .10" zIndex="80" colorBottom="00000000" colorTop="000000" />
+            <box   name="shadowbottom" pos="0 .825" origin="0 0" size="1 .01" zIndex="6" colorBottom="000000" colorTop="00000000" />
+
+            <image name="bgoverlay"  pos="1 1"/>
+            <image name="gamemarker" pos="1 1"/>
+            
+            <image name="mainlogo" pos=".1 .05" origin="0 0" maxSize=".25 .15" zIndex="100"
+                   path="../../_assets/img/systems_logos/$system - whlogo.png"
+                   path="../../_assets/img/systems_logos/$system - whlogo.svg"
+                   path.fr="../../_assets/img/systems_logos/$system - whlogo-fr.svg"
+                   path.EU="../../_assets/img/systems_logos/$system - whlogo-eu.svg"
+                   path.JP="../../_assets/img/systems_logos/$system - whlogo-jp.svg"
+                   path.US="../../_assets/img/systems_logos/$system - whlogo-us.svg"
+            /> 
+
+        </extras>  
+				
+		<text name="systemInfo" pos="0 .003" origin="0 0" size=".99 .01" zIndex="200" backgroundColor="00000000" color="ffffff50" alignment="right" fontSize=".02" fontPath="../../_assets/fonts/JosefinSans-Regular" />
+
+        <helpsystem name="help" pos="0.01 .98" origin="0 0" textColor="cccccc" fontSize=".010" />
+		
+	</view>
+
+</theme>

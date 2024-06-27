@@ -1,0 +1,6 @@
+<theme>
+     <view name="system, gameclip">
+        <image name="overlayVideo" extra="true" pos="0 0" origin="0 0" size="1 1 " zIndex="6" tile="true" path="../../_assets/img/shaders/scanlines.png" />
+    </view>
+</theme>
+

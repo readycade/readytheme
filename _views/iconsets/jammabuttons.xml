@@ -1,0 +1,17 @@
+﻿<theme>
+	<formatVersion>4</formatVersion>
+	<view name="system, menu, detailed, gameclip">
+		<helpsystem name="help">
+			<iconB>../../_assets/buttons/jamma/b.png</iconB>
+			<iconA>../../_assets/buttons/jamma/a.png</iconA>
+			<iconX>../../_assets/buttons/jamma/x.png</iconX>
+			<iconY>../../_assets/buttons/jamma/y.png</iconY>
+			<iconR>../../_assets/buttons/jamma/r.png</iconR>
+			<iconUpDownLeftRight>../../_assets/buttons/jamma/all.png</iconUpDownLeftRight>
+			<iconUpDown>../../_assets/buttons/jamma/updown.png</iconUpDown>
+			<iconLeftRight>../../_assets/buttons/jamma/leftright.png</iconLeftRight>
+			<iconStart>../../_assets/buttons/jamma/start.png</iconStart>
+			<iconSelect>../../_assets/buttons/jamma/select.png</iconSelect>
+		</helpsystem>
+	</view>
+</theme>

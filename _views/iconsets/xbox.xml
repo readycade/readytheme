@@ -1,0 +1,17 @@
+<theme>
+	<formatVersion>4</formatVersion>
+	<view name="system, menu, detailed, gameclip">
+		<helpsystem name="help">
+			<iconB>../../_assets/buttons/xbox/b.png</iconB>
+			<iconA>../../_assets/buttons/xbox/a.png</iconA>
+			<iconX>../../_assets/buttons/xbox/x.png</iconX>
+			<iconY>../../_assets/buttons/xbox/y.png</iconY>
+			<iconR>../../_assets/buttons/xbox/r.png</iconR>
+			<iconUpDownLeftRight>../../_assets/buttons/xbox/all.png</iconUpDownLeftRight>
+			<iconUpDown>../../_assets/buttons/xbox/updown.png</iconUpDown>
+			<iconLeftRight>../../_assets/buttons/xbox/leftright.png</iconLeftRight>
+			<iconStart>../../_assets/buttons/xbox/start.png</iconStart>
+			<iconSelect>../../_assets/buttons/xbox/select.png</iconSelect>
+		</helpsystem>
+	</view>
+</theme>

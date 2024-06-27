@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+	<formatVersion>4</formatVersion>
+
+
+    <view name="system">
+        <carousel name="systemcarousel"
+                  type="vertical"
+                  pos="0.02 0"
+                  origin="0 0"
+                  size=".20 1"
+                  color="25253000"
+                  logoSize=".08 .08"
+                  logoScale="1.8"
+                  logoAlignment="left"
+                  defaultTransition="instant"
+                  maxLogoCount="7"
+                  zIndex="20"
+        />
+        
+        <extras>
+            <image name="background" pos="1 0" origin="1 0" maxSize="10 1" keepratio="1"  zIndex="5" path="../../_assets/img/systems_covers/1080p/$system.jpg" />
+            <box   name="bgcarousel" pos="0 0" origin="0 0" size="0.20 1" zIndex="8" colorBottom="0c0c0e" colorTop="252530" />
+            <box   name="bgTop"      pos="0 0" origin="0 0" size="1 .02" zIndex="6" color="252530" />
+            <box   name="degradeTop" pos="0 .02" origin="0 0" size="1 .15" zIndex="6" colorBottom="00000000" colorTop="252530" />
+            <image name="bgoverlay"  pos="0 0" origin="0 0" size="1 1" zIndex="30" path="../../_assets/img/system_bg1.png" />
+            <image name="gamemarker" pos=".20 .445" origin="0 0" size=".001 .11" zIndex="30" path="../../_assets/img/marker.png" />
+            
+            <image name="mainlogo" pos=".25 .20" origin="0 1" size=".25 .15" keepratio="1" zIndex="100"
+                   path="../../_assets/img/systems_logos/$system - whlogo.png"
+                   path="../../_assets/img/systems_logos/$system - whlogo.svg"
+                   path.fr="../../_assets/img/systems_logos/$system - whlogo-fr.svg"
+                   path.EU="../../_assets/img/systems_logos/$system - whlogo-eu.svg"
+                   path.JP="../../_assets/img/systems_logos/$system - whlogo-jp.svg"
+                   path.US="../../_assets/img/systems_logos/$system - whlogo-us.svg"
+            />
+        </extras>  
+				
+		<text name="systemInfo" pos=".995 .005" origin="1 0" size=".3 .025" zIndex="20" backgroundColor="00000000" color="ffffff50" alignment="right" fontSize=".025" fontPath="../../_assets/fonts/JosefinSans-Regular" />
+
+        <helpsystem name="help" pos=".21 .975" origin="0 1" />
+		
+	</view>
+
+</theme>
