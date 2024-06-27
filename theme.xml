@@ -22,7 +22,7 @@ Version 2.1 , June 2024
 
 	<!-- SOUND -->
 	<view name="system">
-		<sound name="directory" path="/recalbox/share/themes/Readycade-V1-720p/music" />
+		<sound name="directory" path="/recalbox/share/themes/Readycade-V1/music" />
 	</view>
 
 	<!-- MENU -->
