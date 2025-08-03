@@ -39,12 +39,19 @@ Version 1.0 : [Readycade-V1.0.zip](https://github.com/readycade/readytheme/)
 ### SystemView HD (Shader options : none, crt, honeycomb, scanline) :
 **_no shader_**   
 ![Systemview](/thumbnails/favourites-none.png)  
+![Systemview](/thumbnails/neogeo-none.png)  
+
 **_CRT shader_**  
 ![Systemview](/thumbnails/lightgun-crt.png)  
+![Systemview](/thumbnails/naomi-crt.png)  
+
 **_Honeycomb shader_**  
 ![Systemview](/thumbnails/mame-honeycomb.png)  
+![Systemview](/thumbnails/model3-honeycomb.png)  
+
 **_Scanlines shader_**    
-![Systemview](/thumbnails/naomi-scanlines.png)
+![Systemview](/thumbnails/homebrew-scanlines.png)
+![Systemview](/thumbnails/ps2-scanlines.png)
 
 ### Gamelistview HDMI HD :
 ![Gamelistview](/_assets/img/screen/gamelist1_HD.png)
