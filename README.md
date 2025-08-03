@@ -54,7 +54,7 @@ Version 1.0 : [Readycade-V1.0.zip](https://github.com/readycade/readytheme/)
 ![Systemview](/thumbnails/ps2-scanlines.png)
 
 ### Gamelistview HDMI HD :
-![Gamelistview](/_assets/img/screen/gamelist1_HD.png)
+![Gamelistview](/thumbnails/gamelist1_HD.png)
 
 ### Menu :
 ![Menu](/thumbnails/menu.png)
