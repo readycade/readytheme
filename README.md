@@ -25,7 +25,7 @@ Version 1.0 : [Readycade-V1.0.zip](https://github.com/readycade/readytheme/)
 // To avoid performance problems: lag and flashing  
 - Pi4 : 1280 x 1080px
 - Pi5 : 1920 x 1080px
-- x86 : 1920 x 1080px
+- x86_64 : 1920 x 1080px
 
 ### Screen Scraper
 - Image type : ScreenScraper Mix V2
