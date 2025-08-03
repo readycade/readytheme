@@ -57,7 +57,7 @@ Version 1.0 : [Readycade-V1.0.zip](https://github.com/readycade/readytheme/)
 ![Gamelistview](/thumbnails/gamelist1_HD.png)
 
 ### Menu :
-![Menu](/thumbnails/menu.png)
+![Menu](https://github.com/readycade/readytheme/blob/main/thumbnails/menu.png)
 
 ## Changelog
 ```
