@@ -26,7 +26,7 @@ Version 1.0 : [Readycade-V1.0.zip](https://github.com/readycade/readytheme/)
 - Video type : Optimized (Recommended)
 - Thumbnail type : No Thumbnail
 
-### Choice of shader / Choix du shader
+### Choice of shader
 - Menu > UI option > Theme Configuration
 - Choose option
 
@@ -40,11 +40,11 @@ Version 1.0 : [Readycade-V1.0.zip](https://github.com/readycade/readytheme/)
 **_no shader_**   
 ![Systemeview](/thumbnails/favourites-none.png)  
 **_CRT shader_**  
-![Systemeview](/thumbnails/favourites-crt.png)  
+![Systemeview](/thumbnails/lightgun-crt.png)  
 **_Honeycomb shader_**  
-![Systemeview](/thumbnails/favourites-honeycomb.png)  
+![Systemeview](/thumbnails/mame-honeycomb.png)  
 **_Scanlines shader_**    
-![Systemeview](/thumbnails/favourites-scanlines.png)
+![Systemeview](/thumbnails/naomi-scanlines.png)
 
 ### Gamelistview HDMI HD :
 ![Gamelistview](/_assets/img/screen/gamelist1_HD.png)
