@@ -4,7 +4,7 @@ Version : 1.0 - 26/06/2024
 Author : Michael Cabral (Readycade, INC)
 Based off of : Benoit Bounar's original Midnight Theme for Recalbox
 https://gitlab.com/Bounitos/Theme-Midnight
-(There is no license on this theme)
+Attribution-NonCommercial-ShareAlike 4.0 International
 
 
 ## Compatibility :
