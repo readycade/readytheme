@@ -65,5 +65,5 @@ Version 1.0 : [Readycade-V1.0.zip](https://github.com/readycade/readytheme/)
 - Add Arcade system backgrounds
 - Add Virtual games type Logos
 - Add Virtual games type backgrounds
-- Added missing systems logos in SVG format
+- Added ALL missing systems logos in SVG format
 ```
